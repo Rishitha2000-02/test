@@ -8,3 +8,5 @@ git commit -m "first commit"
 git branch -M main
 git remote add origin https://github.com/Rishitha2000-02/Project-.git
 git push -u origin main
+
+evi deniki paniki rav
